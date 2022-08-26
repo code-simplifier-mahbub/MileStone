@@ -30,3 +30,4 @@ function getName(){
 
 const [taire, naire] = getName();
 console.log(naire)
+

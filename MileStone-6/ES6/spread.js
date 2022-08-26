@@ -10,5 +10,8 @@ console.log(numbers);
 console.log(numbers2);
 // //use spread operator
 // console.log(...numbers);
+const allNumbers=[10,20,30,40,50,60,70 ];
+const maxNumber = Math.max(...allNumbers)
+console.log(maxNumber)
 
 // practice make a programme easy man just practice
