@@ -1,0 +1,25 @@
+.grid-container
+{
+    display: grid;
+    /* grid-template-columns: 220px  239px auto; */
+    /* grid-template-columns: repeat(4, 1fr); */
+    grid-template-columns: repeat(4, 1fr) 100px;
+    /* grid-template-rows: 200px 300px 199px; */
+    grid-template-rows: repeat{3, 1fr};
+    background-color: lightgray;
+    height: 600px;
+    width: 500px;
+    gap: 39px;
+}
+
+.grid-item
+{
+    background-color: lightcyan;
+    border: 3px solid lightblue;
+
+}
+.item1
+{
+    grid-column-start: 1;
+    grid-column-end: 5;
+}

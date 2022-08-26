@@ -1,0 +1,2 @@
+fgkf gfdoitgperkg ;ofldkigpoe gg;lfdkgfd;pogfed;ogf  gl screen,st sonar bangla =dici ami onek vhalo lage na kisu amar tumi mor jiboner vhabona ridoyer sukher dolakgjldfgjifdg';l';o ojloiuofgfhg;lhgfokg;hgf;klhl;gfkh;gfdkptoiyptrtgr; ltgkpogfkhfg;phkgf;hgfpklklihjfgdjgho;pfdg oighytrpotghghogif hgf;hkgf;lhgfiptroyi tr[p]y tr[p yitr[ptgrhy;tropktr;
+oktrp hyjtrkl;gf hlg';f ktgrokhptrok;tgrkhtrp]]  fkukirjjtdfdkljgfkjg  sd am
