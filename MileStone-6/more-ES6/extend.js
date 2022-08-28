@@ -76,3 +76,5 @@ Tanzil.feadback();
 const Mahbub = new Developer('Mahbub Hasan', 'Nigeria', 'Krypton');
 console.log(Mahbub);
 Mahbub.feadback();
+
+// not hard if you practice  and know to how to work
