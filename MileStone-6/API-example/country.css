@@ -1,0 +1,12 @@
+#container-countries{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+
+.look{
+    background-color: lightskyblue;
+    padding: 15px;
+    border-radius: 15px;
+}
