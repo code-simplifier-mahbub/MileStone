@@ -14,9 +14,6 @@
 // in innerHTML set country name and flags 
 
 
-
-
-
 const countriesData = () => {
     fetch('https://restcountries.com/v3.1/all')
     .then(res => res.json())
