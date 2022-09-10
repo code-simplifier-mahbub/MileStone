@@ -1,3 +1,4 @@
+// primitive are pass by value
 let x = 5; 
 let y = 4;
 
@@ -11,7 +12,7 @@ function argumentsPass(){
 const result = argumentsPass(x, y);
 // console.log(x)
 
-
+// object are array are pass by refference
 let num1 = {name: 'mim', another: 'sheuly'};
 let num2 = {name: 'anika', another: 'unknown'}
 
