@@ -21,7 +21,7 @@
 .product-btn {
   width: 100%;
   border: none;
-  padding: 10px 0px;
+  padding: 12px 0px;
   font-size: 18px;
   position: absolute;
   bottom: 0;
@@ -45,4 +45,7 @@
 .product-info p{
     margin: 0;
     margin-bottom: 10px;
+}
+.btn-icon{
+  margin-left: 5px;
 }
